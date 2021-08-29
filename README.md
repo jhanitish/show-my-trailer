@@ -5,6 +5,8 @@ Created with CodeSandbox
 ```
 A react web app to view movies list and movie trailer online.
 
+```
+
 #Movies List
 ![](images/movies-list1.png)
 
@@ -16,5 +18,3 @@ A react web app to view movies list and movie trailer online.
 
 #Movies List with trailer (Mobile view)
 ![](images/movie-trailer-mobile.png)
-
-```
